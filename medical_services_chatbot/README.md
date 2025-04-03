@@ -2,17 +2,22 @@
 
 A bilingual (Hebrew/English) chatbot system that provides personalized information about medical services for Israeli HMOs (Maccabi, Meuhedet, and Clalit) based on user-specific information.
 
+[[Demo]](https://youtu.be/Wnrc8u9MQO8)
+
+
 ## Features
 
 ### Core Functionality
 - Bilingual support (Hebrew/English with RTL handling)
 - Two-phase interaction:
   1. Information collection (HMO, membership tier, etc.)
+  ![img.png](readme_img.png)
   2. Personalized Q&A about medical services
 - Stateless microservice architecture
 - Integration with Azure OpenAI GPT-4
 - Tailored responses based on user's HMO and membership tier
-
+![img_1.png](readme_img1.png)
+![img_2.png](readme_img_2.png)
 ### Technical Features
 - FastAPI backend with comprehensive API endpoints
 - Streamlit frontend with modern UI
