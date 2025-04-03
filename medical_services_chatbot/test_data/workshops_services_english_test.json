@@ -1,0 +1,118 @@
+{
+  "test_cases": [
+    {
+      "user_info": {
+        "first_name": "Dana",
+        "last_name": "Cohen",
+        "id_number": "123456789",
+        "gender": "Female",
+        "age": 28,
+        "hmo_name": "Maccabi",
+        "hmo_card_number": "987654321",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What are the benefits in the smoking cessation workshop?",
+          "answer": "As a Maccabi Gold member, you are entitled to a free smoking cessation workshop, including medication treatment"
+        },
+        {
+          "question": "What are the benefits in the proper nutrition workshop?",
+          "answer": "As a Maccabi Gold member, you are entitled to a free proper nutrition workshop, including 3 personal meetings with a dietitian"
+        },
+        {
+          "question": "What are the benefits in the physical activity workshop?",
+          "answer": "As a Maccabi Gold member, you are entitled to a free physical activity workshop, including a one-month gym membership"
+        },
+        {
+          "question": "What are the benefits in the stress management workshop?",
+          "answer": "As a Maccabi Gold member, you are entitled to a free stress management workshop, including 10 meditation sessions"
+        },
+        {
+          "question": "What are the benefits in the diabetes workshop?",
+          "answer": "As a Maccabi Gold member, you are entitled to a free diabetes workshop, including a continuous glucose monitor for one month"
+        },
+        {
+          "question": "What are the benefits in the pregnancy and childbirth workshop?",
+          "answer": "As a Maccabi Gold member, you are entitled to a free pregnancy and childbirth workshop, including an infant CPR course"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Michal",
+        "last_name": "Abraham",
+        "id_number": "234567890",
+        "gender": "Female",
+        "age": 35,
+        "hmo_name": "Meuhedet",
+        "hmo_card_number": "876543210",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What are the benefits in the smoking cessation workshop?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a free smoking cessation workshop, including personal follow-up for one year"
+        },
+        {
+          "question": "What are the benefits in the proper nutrition workshop?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a free proper nutrition workshop, including a personalized nutrition plan"
+        },
+        {
+          "question": "What are the benefits in the physical activity workshop?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a free physical activity workshop, including 5 personal training sessions"
+        },
+        {
+          "question": "What are the benefits in the stress management workshop?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a free stress management workshop, including weekly yoga sessions for two months"
+        },
+        {
+          "question": "What are the benefits in the diabetes workshop?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a free diabetes workshop, including personal guidance from a diabetes nurse"
+        },
+        {
+          "question": "What are the benefits in the pregnancy and childbirth workshop?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a free pregnancy and childbirth workshop, including 3 breastfeeding consultation sessions"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Shira",
+        "last_name": "Golan",
+        "id_number": "345678901",
+        "gender": "Female",
+        "age": 42,
+        "hmo_name": "Clalit",
+        "hmo_card_number": "765432109",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What are the benefits in the smoking cessation workshop?",
+          "answer": "As a Clalit Gold member, you are entitled to a free smoking cessation workshop, including ongoing group support"
+        },
+        {
+          "question": "What are the benefits in the proper nutrition workshop?",
+          "answer": "As a Clalit Gold member, you are entitled to a free proper nutrition workshop, including digital guidance for six months"
+        },
+        {
+          "question": "What are the benefits in the physical activity workshop?",
+          "answer": "As a Clalit Gold member, you are entitled to a free physical activity workshop, including a home workout kit"
+        },
+        {
+          "question": "What are the benefits in the stress management workshop?",
+          "answer": "As a Clalit Gold member, you are entitled to a free stress management workshop, including a mindfulness app for one year"
+        },
+        {
+          "question": "What are the benefits in the diabetes workshop?",
+          "answer": "As a Clalit Gold member, you are entitled to a free diabetes workshop, including a cooking course for diabetics"
+        },
+        {
+          "question": "What are the benefits in the pregnancy and childbirth workshop?",
+          "answer": "As a Clalit Gold member, you are entitled to a free pregnancy and childbirth workshop, including an infant massage workshop"
+        }
+      ]
+    }
+  ]
+} 

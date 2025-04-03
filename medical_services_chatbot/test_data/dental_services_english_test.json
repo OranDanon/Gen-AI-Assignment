@@ -1,0 +1,130 @@
+{
+  "test_cases": [
+    {
+      "user_info": {
+        "first_name": "Dana",
+        "last_name": "Cohen",
+        "id_number": "123456789",
+        "gender": "Female",
+        "age": 28,
+        "hmo_name": "Maccabi",
+        "hmo_card_number": "987654321",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many free dental check-ups and cleanings am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to free dental check-ups and cleanings twice per year"
+        },
+        {
+          "question": "How long is the wait time for dental check-ups and cleanings?",
+          "answer": "As a Maccabi Gold member, wait time for dental check-ups and cleanings is within 48 hours"
+        },
+        {
+          "question": "What is the discount on fillings?",
+          "answer": "As a Maccabi Gold member, you are entitled to an 80% discount on fillings, including advanced materials"
+        },
+        {
+          "question": "What is the discount on root canal treatments?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 70% discount on root canal treatments, including X-rays"
+        },
+        {
+          "question": "What is the discount on crowns and implants?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 60% discount on crowns and implants, including a 5-year warranty"
+        },
+        {
+          "question": "What is the discount on orthodontic treatment?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 50% discount on orthodontic treatment, including retention"
+        },
+        {
+          "question": "What is the discount on cosmetic treatments?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 40% discount on cosmetic treatments, including whitening"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Michal",
+        "last_name": "Abraham",
+        "id_number": "234567890",
+        "gender": "Female",
+        "age": 35,
+        "hmo_name": "Meuhedet",
+        "hmo_card_number": "876543210",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many free dental check-ups and cleanings am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to free dental check-ups and cleanings every quarter"
+        },
+        {
+          "question": "How long is the wait time for dental check-ups and cleanings?",
+          "answer": "As a Meuhedet Gold member, wait time for dental check-ups and cleanings is same day"
+        },
+        {
+          "question": "What is the discount on fillings?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 75% discount on fillings, including premium materials"
+        },
+        {
+          "question": "What is the discount on root canal treatments?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 65% discount on root canal treatments, including same-day treatment"
+        },
+        {
+          "question": "What is the discount on crowns and implants?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 55% discount on crowns and implants, including a 7-year warranty"
+        },
+        {
+          "question": "What is the discount on orthodontic treatment?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 45% discount on orthodontic treatment, including clear aligners"
+        },
+        {
+          "question": "What is the discount on cosmetic treatments?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 35% discount on cosmetic treatments, including veneers"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Shira",
+        "last_name": "Golan",
+        "id_number": "345678901",
+        "gender": "Female",
+        "age": 42,
+        "hmo_name": "Clalit",
+        "hmo_card_number": "765432109",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many free dental check-ups and cleanings am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to free dental check-ups and cleanings every month"
+        },
+        {
+          "question": "Is there an emergency service for dental check-ups and cleanings?",
+          "answer": "Yes, as a Clalit Gold member, there is a 24/7 emergency line for dental check-ups and cleanings"
+        },
+        {
+          "question": "What is the discount on fillings?",
+          "answer": "As a Clalit Gold member, you are entitled to a 70% discount on fillings, including advanced technology"
+        },
+        {
+          "question": "What is the discount on root canal treatments?",
+          "answer": "As a Clalit Gold member, you are entitled to a 60% discount on root canal treatments, including follow-up treatment"
+        },
+        {
+          "question": "What is the discount on crowns and implants?",
+          "answer": "As a Clalit Gold member, you are entitled to a 50% discount on crowns and implants, including a 6-year warranty"
+        },
+        {
+          "question": "What is the discount on orthodontic treatment?",
+          "answer": "As a Clalit Gold member, you are entitled to a 40% discount on orthodontic treatment, including orthodontic consultation"
+        },
+        {
+          "question": "What is the discount on cosmetic treatments?",
+          "answer": "As a Clalit Gold member, you are entitled to a 30% discount on cosmetic treatments, including porcelain restoration"
+        }
+      ]
+    }
+  ]
+} 

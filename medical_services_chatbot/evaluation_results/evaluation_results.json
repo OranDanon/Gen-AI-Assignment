@@ -1,0 +1,2000 @@
+[
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many acupuncture treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 70% discount on acupuncture, up to 20 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to a 70% discount on acupuncture treatments, with a maximum of 20 treatments per year.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many shiatsu treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 65% discount on shiatsu, up to 15 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to a 65% discount on shiatsu treatments, with a maximum of 15 treatments per year.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many reflexology treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 60% discount on reflexology, up to 12 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to a 60% discount on reflexology treatments, with a maximum of 12 treatments per year.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many naturopathy treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 70% discount on naturopathy, up to 16 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to 70% off on naturopathy treatments, with a maximum of 16 treatments per year.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many homeopathy treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 65% discount on homeopathy, up to 12 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to 12 homeopathy treatments per year with a 65% discount. If you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many chiropractic treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 75% discount on chiropractic, up to 18 treatments per year",
+        "generated_answer":"Hi Dana! Based on your Maccabi Gold membership, you are entitled to 75% off on chiropractic treatments, with a maximum of 18 treatments per year. If you have any more questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many acupuncture treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 75% discount on acupuncture, up to 18 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to a 75% discount on acupuncture treatments, with a maximum of 18 treatments per year.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many shiatsu treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 70% discount on shiatsu, up to 12 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to a 70% discount on shiatsu treatments, with a maximum of 12 treatments per year.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many reflexology treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 65% discount on reflexology, up to 10 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to a 65% discount on reflexology treatments, with a maximum of 10 treatments per year.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many naturopathy treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 75% discount on naturopathy, up to 14 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to 75% off on naturopathy treatments, with a maximum of 14 treatments per year.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many homeopathy treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 70% discount on homeopathy, up to 10 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to a 70% discount on homeopathy treatments, with a maximum of 10 treatments per year.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many chiropractic treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to an 80% discount on chiropractic, up to 16 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to 16 chiropractic treatments per year with an 80% discount. If you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many acupuncture treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to an 80% discount on acupuncture, up to 16 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to 80% off on acupuncture treatments, with a maximum of 16 treatments per year.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many shiatsu treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 75% discount on shiatsu, up to 14 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to a 75% discount on shiatsu treatments, with a maximum of 14 treatments per year.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many reflexology treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 70% discount on reflexology, up to 12 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to a 70% discount on reflexology treatments, with a maximum of 12 treatments per year.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many naturopathy treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to an 80% discount on naturopathy, up to 12 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to 12 naturopathy treatments per year with an 80% discount. If you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many homeopathy treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 75% discount on homeopathy, up to 12 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to 12 homeopathy treatments per year with a 75% discount. If you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many chiropractic treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to an 85% discount on chiropractic, up to 14 treatments per year",
+        "generated_answer":"Hi Shira,\n\nAs a member of Clalit with a Gold membership tier, you are entitled to 14 chiropractic treatments per year with an 85% discount. If you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי דיקור סיני אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-70% הנחה על דיקור סיני, עד 20 טיפולים בשנה",
+        "generated_answer":"שלום דנה כהן,\n\nבהתאם למידע על ההטבות שלך כחברת מכבי זהב, את זכאית לקבל עד 20 טיפולי דיקור סיני (אקופונקטורה) בשנה בהנחה של 70%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי שיאצו אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-65% הנחה על שיאצו, עד 15 טיפולים בשנה",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע על ההטבות שלך כחברת מכבי זהב, את זכאית לקבל עד 15 טיפולי שיאצו בשנה בהנחה של 65%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי רפלקסולוגיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-60% הנחה על רפלקסולוגיה, עד 12 טיפולים בשנה",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית לקבל עד 12 טיפולי רפלקסולוגיה בשנה בהנחה של 60%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי נטורופתיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-70% הנחה על נטורופתיה, עד 16 טיפולים בשנה",
+        "generated_answer":"שלום דנה כהן,\n\nבהתאם למידע על ההטבות שלך כחברת מכבי זהב, את זכאית לקבל הנחה של 70% על טיפולי נטורופתיה, עד 16 טיפולים בשנה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי הומאופתיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-65% הנחה על הומאופתיה, עד 12 טיפולים בשנה",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית לקבל עד 12 טיפולי הומאופתיה בשנה בהנחה של 65%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי כירופרקטיקה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-75% הנחה על כירופרקטיקה, עד 18 טיפולים בשנה",
+        "generated_answer":"דנה, לפי המידע שבידי, את זכאית לקבל עד 18 טיפולי כירופרקטיקה בשנה עם הנחה של 75%. אם יש לך שאלות נוספות או אם את צריכה עזרה בקביעת תור, אני כאן בשבילך!"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי דיקור סיני אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-75% הנחה על דיקור סיני, עד 18 טיפולים בשנה",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית לקבל 75% הנחה על טיפולי דיקור סיני (אקופונקטורה) עד 18 טיפולים בשנה במסגרת חברותך במאוחדת זהב.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי שיאצו אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-70% הנחה על שיאצו, עד 12 טיפולים בשנה",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית לקבל טיפולי שיאצו בהנחה של 70%, עד 12 טיפולים בשנה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי רפלקסולוגיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-65% הנחה על רפלקסולוגיה, עד 10 טיפולים בשנה",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית לקבל הנחה של 65% על טיפולי רפלקסולוגיה, עד 10 טיפולים בשנה.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי נטורופתיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-75% הנחה על נטורופתיה, עד 14 טיפולים בשנה",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית לקבל עד 14 טיפולי נטורופתיה בשנה עם הנחה של 75%.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי הומאופתיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-70% הנחה על הומאופתיה, עד 10 טיפולים בשנה",
+        "generated_answer":"מיכל, את זכאית לקבל עד 10 טיפולי הומאופתיה בשנה בהנחה של 70%."
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי כירופרקטיקה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-80% הנחה על כירופרקטיקה, עד 16 טיפולים בשנה",
+        "generated_answer":"מיכל שלום,\n\nלפי המידע שברשותי, את זכאית לקבל טיפולי כירופרקטיקה בהנחה של 80%, עד 16 טיפולים בשנה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי דיקור סיני אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-80% הנחה על דיקור סיני, עד 16 טיפולים בשנה",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית לקבל הנחה של 80% על טיפולי דיקור סיני (אקופונקטורה) עד 16 טיפולים בשנה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי שיאצו אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-75% הנחה על שיאצו, עד 14 טיפולים בשנה",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית לקבל טיפולי שיאצו בהנחה של 75%, עד 14 טיפולים בשנה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי רפלקסולוגיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-70% הנחה על רפלקסולוגיה, עד 12 טיפולים בשנה",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית לקבל עד 12 טיפולי רפלקסולוגיה בשנה בהנחה של 70%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי נטורופתיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-80% הנחה על נטורופתיה, עד 12 טיפולים בשנה",
+        "generated_answer":"שירה שלום,\n\nלפי המידע שברשותי, כחברת כללית במעמד זהב, את זכאית לקבל עד 12 טיפולי נטורופתיה בשנה בהנחה של 80%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזרת הרפואית שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי הומאופתיה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-75% הנחה על הומאופתיה, עד 12 טיפולים בשנה",
+        "generated_answer":"שירה, את זכאית לקבל עד 12 טיפולי הומאופתיה בשנה בהנחה של 75%."
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולי כירופרקטיקה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-85% הנחה על כירופרקטיקה, עד 14 טיפולים בשנה",
+        "generated_answer":"שירה, לפי המידע שבידי, את זכאית לקבל עד 14 טיפולי כירופרקטיקה בשנה עם הנחה של 85%. אם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on speech and language disorder diagnosis?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 90% discount on speech and language disorder diagnosis, including a detailed report",
+        "generated_answer":"Hi Dana,\n\nFor the diagnosis of speech and language disorders, you are eligible for a 90% discount, which also includes a detailed report. This benefit is part of your Maccabi Gold membership.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many stuttering treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to an 80% discount on stuttering treatment, up to 30 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to receive an 80% discount on stuttering treatments, with a maximum of 30 treatments per year.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many voice disorder treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 75% discount on voice disorder treatment, up to 20 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to receive up to 20 treatments per year for voice disorders, with a 75% discount.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on swallowing disorder diagnosis and treatment?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to an 85% discount on swallowing disorder diagnosis and treatment, including videofluoroscopy examination",
+        "generated_answer":"Hi Dana,\n\nFor the diagnosis and treatment of swallowing disorders, you are eligible for an 85% discount. This benefit also includes a videofluoroscopic swallowing study as part of the diagnostic process.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many developmental delay treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 90% discount on developmental delay treatment, up to 40 treatments per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to up to 40 treatments per year for developmental delay, with a 90% discount. If you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on hearing rehabilitation?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to an 80% discount on hearing rehabilitation, including hearing aid fitting",
+        "generated_answer":"Hi Dana,\n\nFor hearing rehabilitation, you are entitled to an 80% discount, which also includes the fitting of hearing aids. This benefit is part of your Maccabi Gold membership tier.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on speech and language disorder diagnosis?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to an 85% discount on speech and language disorder diagnosis, including parent consultation",
+        "generated_answer":"Hi Michal,\n\nFor speech and language disorder diagnosis, you are eligible for an 85% discount, which also includes parental consultation. This benefit is part of your Meuhedet Gold membership.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many stuttering treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 75% discount on stuttering treatment, up to 25 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to receive up to 25 stuttering treatments per year with a 75% discount. If you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many voice disorder treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 70% discount on voice disorder treatment, up to 18 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to receive up to 18 treatments per year for voice disorders, with a 70% discount.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on swallowing disorder diagnosis and treatment?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to an 80% discount on swallowing disorder diagnosis and treatment, including nutritional consultation",
+        "generated_answer":"Hi Michal,\n\nFor the diagnosis and treatment of swallowing disorders, you are eligible for an 80% discount. This benefit also includes nutritional counseling as part of the treatment plan.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many developmental delay treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to an 85% discount on developmental delay treatment, up to 35 treatments per year",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to up to 35 treatments per year for developmental delay, with an 85% discount. If you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on hearing rehabilitation?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 75% discount on hearing rehabilitation, including technical support",
+        "generated_answer":"Hi Michal,\n\nFor hearing rehabilitation, you are entitled to a 75% discount, and this benefit also includes technical support.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on speech and language disorder diagnosis?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 95% discount on speech and language disorder diagnosis, including a treatment plan",
+        "generated_answer":"Hi Shira,\n\nFor speech and language disorder diagnosis, you are eligible for a 95% discount, and this includes a treatment plan as well. This benefit is part of your Clalit Gold membership.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many stuttering treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to an 85% discount on stuttering treatment, up to 28 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to 85% off on stuttering treatments, with a maximum of 28 treatments per year.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many voice disorder treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to an 80% discount on voice disorder treatment, up to 22 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to receive an 80% discount on treatments for voice disorders, with a maximum of 22 treatments per year.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on swallowing disorder diagnosis and treatment?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 90% discount on swallowing disorder diagnosis and treatment, including home treatment",
+        "generated_answer":"Hi Shira,\n\nFor the diagnosis and treatment of swallowing disorders, you are eligible for a 90% discount. This benefit also includes home treatment as part of the coverage.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many developmental delay treatments am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 95% discount on developmental delay treatment, up to 45 treatments per year",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to up to 45 treatments per year for developmental delay. This benefit comes with a 95% discount.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on hearing rehabilitation?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to an 85% discount on hearing rehabilitation, including support groups",
+        "generated_answer":"Hi Shira,\n\nFor hearing rehabilitation, you are entitled to an 85% discount, and this benefit also includes support groups. If you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אבחון הפרעות שפה ודיבור?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-90% הנחה על אבחון הפרעות שפה ודיבור, כולל דוח מפורט",
+        "generated_answer":"שלום דנה כהן,\n\nלפי המידע שיש לנו, את זכאית ל-90% הנחה על אבחון הפרעות שפה ודיבור, כולל דוח מפורט.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nיום טוב!"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בגמגום אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-80% הנחה על טיפול בגמגום, עד 30 טיפולים בשנה",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית לקבל עד 30 טיפולים בשנה לטיפול בגמגום, עם הנחה של 80%.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בהפרעות קול אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-75% הנחה על טיפול בהפרעות קול, עד 20 טיפולים בשנה",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית לקבל עד 20 טיפולים בשנה בהפרעות קול, עם הנחה של 75%.\n\nאם יש לך שאלות נוספות או אם את זקוקה לעזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אבחון וטיפול בהפרעות בליעה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-85% הנחה על אבחון וטיפול בהפרעות בליעה, כולל בדיקת וידאופלורוסקופיה",
+        "generated_answer":"שלום דנה כהן,\n\nלפי המידע שיש לנו, את זכאית ל-85% הנחה על אבחון וטיפול בהפרעות בליעה, כולל בדיקת וידאופלורוסקופיה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בעיכוב התפתחותי אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-90% הנחה על טיפול בעיכוב התפתחותי, עד 40 טיפולים בשנה",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית לקבל עד 40 טיפולים בשנה בעיכוב התפתחותי, עם הנחה של 90%.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על שיקום שמיעה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-80% הנחה על שיקום שמיעה, כולל התאמת מכשירי שמיעה",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית ל-80% הנחה על שיקום שמיעה, כולל התאמת מכשירי שמיעה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אבחון הפרעות שפה ודיבור?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-85% הנחה על אבחון הפרעות שפה ודיבור, כולל ייעוץ להורים",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית ל-85% הנחה על אבחון הפרעות שפה ודיבור, כולל ייעוץ להורים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בגמגום אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-75% הנחה על טיפול בגמגום, עד 25 טיפולים בשנה",
+        "generated_answer":"מיכל, לפי המידע שיש לנו, את זכאית לקבל עד 25 טיפולים בשנה לטיפול בגמגום, עם הנחה של 75%. אם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בהפרעות קול אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-70% הנחה על טיפול בהפרעות קול, עד 18 טיפולים בשנה",
+        "generated_answer":"מיכל שלום,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\" בקופת חולים מאוחדת, את זכאית לקבל עד 18 טיפולים בשנה בהפרעות קול בהנחה של 70%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור.\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אבחון וטיפול בהפרעות בליעה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-80% הנחה על אבחון וטיפול בהפרעות בליעה, כולל ייעוץ תזונתי",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך בקופת חולים מאוחדת בתוכנית זהב, את זכאית ל-80% הנחה על אבחון וטיפול בהפרעות בליעה, כולל ייעוץ תזונתי.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בעיכוב התפתחותי אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-85% הנחה על טיפול בעיכוב התפתחותי, עד 35 טיפולים בשנה",
+        "generated_answer":"מיכל, לפי המידע שבידי, את זכאית לקבל עד 35 טיפולים בשנה בעיכוב התפתחותי, עם הנחה של 85%. אם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על שיקום שמיעה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-75% הנחה על שיקום שמיעה, כולל תמיכה טכנית",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית להנחה של 75% על שיקום שמיעה, כולל תמיכה טכנית.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nיום טוב,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אבחון הפרעות שפה ודיבור?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-95% הנחה על אבחון הפרעות שפה ודיבור, כולל תוכנית טיפול",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-95% הנחה על אבחון הפרעות שפה ודיבור, כולל תוכנית טיפול.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בגמגום אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-85% הנחה על טיפול בגמגום, עד 28 טיפולים בשנה",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית לקבל עד 28 טיפולים בשנה לטיפול בגמגום, עם הנחה של 85%.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בהפרעות קול אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-80% הנחה על טיפול בהפרעות קול, עד 22 טיפולים בשנה",
+        "generated_answer":"שירה, לפי המידע שיש לנו, את זכאית לקבל עד 22 טיפולים בשנה בהפרעות קול, עם הנחה של 80%. אם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אבחון וטיפול בהפרעות בליעה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-90% הנחה על אבחון וטיפול בהפרעות בליעה, כולל טיפול ביתי",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית ל-90% הנחה על אבחון וטיפול בהפרעות בליעה, כולל טיפול ביתי.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה טיפולים בעיכוב התפתחותי אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-95% הנחה על טיפול בעיכוב התפתחותי, עד 45 טיפולים בשנה",
+        "generated_answer":"שירה, לפי המידע שבידי, את זכאית לקבל עד 45 טיפולים בשנה עבור טיפול בעיכוב התפתחותי, עם הנחה של 95%. אם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על שיקום שמיעה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-85% הנחה על שיקום שמיעה, כולל קבוצות תמיכה",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-85% הנחה על שיקום שמיעה, כולל קבוצות תמיכה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many free dental check-ups and cleanings am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to free dental check-ups and cleanings twice per year",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to free dental check-ups and cleanings twice a year. You can schedule these appointments with a waiting time of up to 48 hours.\n\nIf you have any more questions about your benefits or need assistance with anything else, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How long is the wait time for dental check-ups and cleanings?",
+        "ground_truth_answer":"As a Maccabi Gold member, wait time for dental check-ups and cleanings is within 48 hours",
+        "generated_answer":"Hi Dana,\n\nFor dental check-ups and cleanings, you have a great benefit with your Maccabi Gold membership. You can get these services for free twice a year, and the wait time for an appointment is within 48 hours. So, you can schedule your dental check-up and cleaning and expect to be seen quickly.\n\nIf you have any other questions about your benefits or need assistance with anything else, feel free to ask!\n\nBest,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on fillings?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to an 80% discount on fillings, including advanced materials",
+        "generated_answer":"Hi Dana,\n\nFor your membership tier (Gold) with Maccabi HMO, you are eligible for an 80% discount on fillings. Additionally, the fillings are done using advanced materials.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on root canal treatments?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 70% discount on root canal treatments, including X-rays",
+        "generated_answer":"Hi Dana! Based on your Maccabi Gold membership, you are eligible for a 70% discount on root canal treatments. This benefit also includes X-ray imaging as part of the treatment. If you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on crowns and implants?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 60% discount on crowns and implants, including a 5-year warranty",
+        "generated_answer":"Hi Dana,\n\nFor crowns and implants, you are eligible for a 60% discount. Additionally, the treatment comes with a 5-year warranty.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on orthodontic treatment?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 50% discount on orthodontic treatment, including retention",
+        "generated_answer":"Hi Dana,\n\nFor orthodontic treatment, you are eligible for a 50% discount, which also includes retention. This benefit is part of your Gold membership tier with Maccabi HMO.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on cosmetic treatments?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 40% discount on cosmetic treatments, including whitening",
+        "generated_answer":"Hi Dana,\n\nFor cosmetic treatments, you are eligible for a 40% discount, which also includes teeth whitening. If you have any other questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many free dental check-ups and cleanings am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to free dental check-ups and cleanings every quarter",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to free dental check-ups and cleanings every quarter. This means you can have up to four free dental check-ups and cleanings per year. You can schedule these appointments for the same day.\n\nIf you have any other questions about your benefits, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How long is the wait time for dental check-ups and cleanings?",
+        "ground_truth_answer":"As a Meuhedet Gold member, wait time for dental check-ups and cleanings is same day",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership benefits, dental check-ups and cleanings are free every quarter, and you can get an appointment on the same day. So, there's no wait time for these services; you can schedule and receive your dental check-up and cleaning on the same day you request it.\n\nIf you have any other questions about your benefits or need assistance with anything else, feel free to ask!\n\nBest,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on fillings?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 75% discount on fillings, including premium materials",
+        "generated_answer":"Hi Michal,\n\nFor your membership tier (Gold) with Meuhedet, you are eligible for a 75% discount on fillings. Additionally, the fillings are made with premium materials.\n\nIf you have any other questions about your benefits, feel free to ask!\n\nBest,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on root canal treatments?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 65% discount on root canal treatments, including same-day treatment",
+        "generated_answer":"Hi Michal,\n\nFor root canal treatments, you are eligible for a 65% discount. Additionally, the treatment is designed to be completed in one day.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on crowns and implants?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 55% discount on crowns and implants, including a 7-year warranty",
+        "generated_answer":"Hi Michal,\n\nFor crowns and implants, you are eligible for a 55% discount. Additionally, these treatments come with a 7-year warranty. If you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on orthodontic treatment?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 45% discount on orthodontic treatment, including clear aligners",
+        "generated_answer":"Hi Michal,\n\nFor orthodontic treatment, you are eligible for a 45% discount. This benefit also includes the use of clear aligners.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on cosmetic treatments?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 35% discount on cosmetic treatments, including veneers",
+        "generated_answer":"Hi Michal,\n\nFor cosmetic treatments, you are eligible for a 35% discount. This includes treatments like veneers.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many free dental check-ups and cleanings am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to free dental check-ups and cleanings every month",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to free dental check-ups and cleanings every month. This means you can have up to 12 free dental check-ups and cleanings per year. Additionally, you have access to a 24\/7 emergency dental line.\n\nIf you have any other questions about your benefits, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"Is there an emergency service for dental check-ups and cleanings?",
+        "ground_truth_answer":"Yes, as a Clalit Gold member, there is a 24\/7 emergency line for dental check-ups and cleanings",
+        "generated_answer":"Hi Shira,\n\nYes, there is an emergency service for dental check-ups and cleanings available to you. According to your Clalit Gold membership benefits, you can get dental check-ups and cleanings for free every month, and there is a 24\/7 emergency line available for any urgent dental needs.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on fillings?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 70% discount on fillings, including advanced technology",
+        "generated_answer":"Hi Shira,\n\nFor fillings, you are eligible for a 70% discount. This benefit includes advanced technology to ensure the best possible treatment.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on root canal treatments?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 60% discount on root canal treatments, including follow-up treatment",
+        "generated_answer":"Hi Shira,\n\nFor root canal treatments, you are eligible for a 60% discount. This benefit also includes follow-up treatment after the root canal procedure.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on crowns and implants?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 50% discount on crowns and implants, including a 6-year warranty",
+        "generated_answer":"Hi Shira,\n\nFor crowns and implants, you are eligible for a 50% discount. Additionally, the treatment comes with a 6-year warranty. If you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on orthodontic treatment?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 40% discount on orthodontic treatment, including orthodontic consultation",
+        "generated_answer":"Hi Shira,\n\nFor orthodontic treatment, you are eligible for a 40% discount. This benefit also includes a consultation with an orthodontist.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on cosmetic treatments?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 30% discount on cosmetic treatments, including porcelain restoration",
+        "generated_answer":"Hi Shira,\n\nFor cosmetic treatments, you are eligible for a 30% discount. This benefit also includes porcelain restoration.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה פעמים בשנה אני זכאית לבדיקות וניקוי שיניים חינם?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לבדיקות וניקוי שיניים חינם פעמיים בשנה",
+        "generated_answer":"דנה, את זכאית לבדיקות וניקוי שיניים חינם פעמיים בשנה. בנוסף, תוכלי לקבוע תור תוך 48 שעות. אם יש לך שאלות נוספות או אם את זקוקה לעזרה בקביעת תור, אני כאן בשבילך!"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה זמן ממתינים לתור לבדיקות וניקוי שיניים?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, תור לבדיקות וניקוי שיניים הוא תוך 48 שעות",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית לבדיקה וניקוי שיניים חינם פעמיים בשנה, עם זמן המתנה של עד 48 שעות לתור.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה בקביעת תור, אני כאן בשבילך!\n\nיום טוב,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על סתימות?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-80% הנחה על סתימות, כולל חומרים מתקדמים",
+        "generated_answer":"שלום דנה כהן,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית ל-80% הנחה על סתימות, כולל שימוש בחומרים מתקדמים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על טיפולי שורש?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-70% הנחה על טיפולי שורש, כולל צילומי רנטגן",
+        "generated_answer":"שלום דנה כהן,\n\nלפי המידע שיש לנו, את זכאית ל-70% הנחה על טיפולי שורש, כולל צילומי רנטגן.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על כתרים ושתלים?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-60% הנחה על כתרים ושתלים, כולל אחריות ל-5 שנים",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית ל-60% הנחה על כתרים ושתלים, כולל אחריות ל-5 שנים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על יישור שיניים?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-50% הנחה על יישור שיניים, כולל רטנציה",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית ל-50% הנחה על יישור שיניים, כולל רטנציה.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על טיפולים קוסמטיים?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-40% הנחה על טיפולים קוסמטיים, כולל הלבנה",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע שיש לנו על ההטבות שלך כחברת מכבי זהב, את זכאית ל-40% הנחה על טיפולים קוסמטיים, כולל הלבנה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה פעמים בשנה אני זכאית לבדיקות וניקוי שיניים חינם?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לבדיקות וניקוי שיניים חינם כל רבעון",
+        "generated_answer":"מיכל שלום,\n\nלפי המידע שברשותי, את זכאית לבדיקות וניקוי שיניים חינם כל רבעון, כלומר ארבע פעמים בשנה. ניתן לקבוע תור ביום עצמו.\n\nאם יש לך שאלות נוספות או אם את זקוקה לעזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה זמן ממתינים לתור לבדיקות וניקוי שיניים?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, תור לבדיקות וניקוי שיניים הוא ביום",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית לבדיקה וניקוי שיניים חינם כל רבעון, עם תור ביום עצמו. כלומר, אין צורך להמתין זמן רב לתור, ואת יכולה לקבל את השירות ביום שבו את קובעת את התור.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה בקביעת תור, אני כאן בשבילך!\n\nבברכה,\nהעוזרת הרפואית שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על סתימות?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-75% הנחה על סתימות, כולל חומרים פרימיום",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית ל-75% הנחה על סתימות, כולל שימוש בחומרים פרימיום.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על טיפולי שורש?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-65% הנחה על טיפולי שורש, כולל טיפול ביום אחד",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית ל-65% הנחה על טיפולי שורש במסגרת חברותך במאוחדת זהב. בנוסף, הטיפול מתבצע ביום אחד.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על כתרים ושתלים?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-55% הנחה על כתרים ושתלים, כולל אחריות ל-7 שנים",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\", את זכאית ל-55% הנחה על כתרים ושתלים, כולל אחריות ל-7 שנים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על יישור שיניים?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-45% הנחה על יישור שיניים, כולל מכשיר שקוף",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית ל-45% הנחה על יישור שיניים, כולל מכשיר שקוף.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על טיפולים קוסמטיים?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-35% הנחה על טיפולים קוסמטיים, כולל ציפויים",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב-HMO מאוחדת ברמת זהב, את זכאית ל-35% הנחה על טיפולים קוסמטיים, כולל ציפויים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה פעמים בשנה אני זכאית לבדיקות וניקוי שיניים חינם?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לבדיקות וניקוי שיניים חינם כל חודש",
+        "generated_answer":"שירה שלום,\n\nלפי המידע שברשותי, את זכאית לבדיקות וניקוי שיניים חינם כל חודש. בנוסף, יש לך גישה לקו חירום 24\/7 במקרה הצורך.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"האם יש שירות חירום לבדיקות וניקוי שיניים?",
+        "ground_truth_answer":"כן, כמבוטחת כללית במסלול זהב, יש קו חירום 24\/7 לבדיקות וניקוי שיניים",
+        "generated_answer":"שלום שירה,\n\nכן, יש לך שירות חירום לבדיקות וניקוי שיניים במסגרת הביטוח שלך. השירות זמין 24\/7, כך שתוכלי לקבל טיפול בכל עת שתצטרכי.\n\nאם יש לך שאלות נוספות או אם את זקוקה לעזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על סתימות?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-70% הנחה על סתימות, כולל טכנולוגיה מתקדמת",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-70% הנחה על סתימות, כולל שימוש בטכנולוגיה מתקדמת.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על טיפולי שורש?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-60% הנחה על טיפולי שורש, כולל טיפול לאחר מכן",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-60% הנחה על טיפולי שורש, כולל טיפול לאחר מכן.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על כתרים ושתלים?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-50% הנחה על כתרים ושתלים, כולל אחריות ל-6 שנים",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-50% הנחה על כתרים ושתלים, כולל אחריות ל-6 שנים.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nיום טוב,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על יישור שיניים?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-40% הנחה על יישור שיניים, כולל ייעוץ אורתודונטי",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-40% הנחה על יישור שיניים, כולל ייעוץ אורתודונטי.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על טיפולים קוסמטיים?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-30% הנחה על טיפולים קוסמטיים, כולל שיחזור חרסינה",
+        "generated_answer":"שירה שלום,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת כללית זהב, את זכאית ל-30% הנחה על טיפולים קוסמטיים, כולל שיחזור חרסינה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many vision tests am I entitled to per year?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to one free vision test per year, including intraocular pressure testing",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to one free vision test per year. This includes a comprehensive eye exam with an intraocular pressure check.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on glasses?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 70% discount on glasses up to 1000 NIS, with replacement every two years",
+        "generated_answer":"Hi Dana! Based on your Maccabi Gold membership, you are eligible for a 70% discount on glasses, up to a maximum of 1000 ₪. You can replace your glasses every two years with this benefit. If you have any other questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on contact lenses?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 60% discount on contact lenses, including an annual treatment kit",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are eligible for a 60% discount on contact lenses. This benefit also includes an annual care kit for your lenses.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on laser vision correction surgery?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 50% discount on laser surgery, including preliminary examinations",
+        "generated_answer":"Hi Dana,\n\nFor laser vision correction surgery, you are eligible for a 50% discount. This benefit also includes the preliminary examinations needed before the surgery.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on special vision aids?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 70% discount on low vision devices, including trial equipment rental",
+        "generated_answer":"Hi Dana,\n\nFor special vision aids, you are entitled to a 70% discount on devices for low vision. Additionally, you can borrow equipment to try it out before making a purchase. This benefit is part of your Gold membership with Maccabi.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits for children's treatment?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to free treatment for children up to age 18, including lazy eye treatment",
+        "generated_answer":"Hi Dana,\n\nFor children's treatment under your Maccabi Gold membership, you have the following benefits:\n\n- **Children's Treatment**: Free until the age of 18, including treatments for lazy eye (amblyopia).\n\nIf you have any more questions or need further details, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many vision tests am I entitled to per year?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to two free vision tests per year, including retinal mapping",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to two free vision tests per year. These tests include retinal mapping as well.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on glasses?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 65% discount on glasses up to 1200 NIS, with replacement every year and a half",
+        "generated_answer":"Hi Michal,\n\nAs a member of Meuhedet Gold, you are entitled to a 65% discount on eyeglasses, up to a maximum of 1200 ₪. You can also replace your glasses every year and a half.\n\nIf you have any other questions about your benefits, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on contact lenses?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 55% discount on contact lenses, including free fitting examination",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are eligible for a 55% discount on contact lenses. This benefit also includes a free fitting exam to ensure the lenses are the right fit for you.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on laser vision correction surgery?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 45% discount on laser surgery, including follow-up treatments",
+        "generated_answer":"Hi Michal,\n\nFor laser vision correction surgery, you are eligible for a 45% discount. This benefit also includes follow-up treatments to ensure the best possible outcome.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on special vision aids?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a 65% discount on low vision devices, including personal training",
+        "generated_answer":"Hi Michal,\n\nFor special vision aids, you are entitled to a 65% discount on devices for low vision, and this benefit also includes personal guidance. If you need any further assistance or have more questions about your benefits, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits for children's treatment?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to free treatment for children up to age 18, including vision training",
+        "generated_answer":"Hi Michal,\n\nFor children's treatment under your Meuhedet Gold membership, you have the following benefits:\n\n- **Children's Treatment**: Free until the age of 18, including vision training sessions.\n\nIf you have any other questions or need further details, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many vision tests am I entitled to per year?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to free vision tests every six months, including visual field testing",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to free vision tests every six months. This means you can have two vision tests per year. Additionally, these tests include a field of vision examination.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on glasses?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 75% discount on glasses up to 900 NIS, with replacement every two years",
+        "generated_answer":"Hi Shira,\n\nAs a Gold member with Clalit, you are entitled to a 75% discount on glasses, up to a maximum of 900 ₪. You can replace your glasses every two years under this benefit.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on contact lenses?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 65% discount on contact lenses, including free trial lenses",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are eligible for a 65% discount on contact lenses. This benefit also includes free trial lenses.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on laser vision correction surgery?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 55% discount on laser surgery, including a 5-year warranty",
+        "generated_answer":"Hi Shira,\n\nFor laser vision correction surgery, you are eligible for a 55% discount. This benefit also includes a 5-year warranty on the procedure.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on special vision aids?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 75% discount on low vision devices, including technical support",
+        "generated_answer":"Hi Shira,\n\nFor special vision aids, you are entitled to a 75% discount on low vision devices, and this benefit also includes technical support.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits for children's treatment?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to free treatment for children up to age 18, including vision development testing",
+        "generated_answer":"Hi Shira,\n\nFor children's treatment under your Clalit Gold membership, you have the following benefits:\n\n- **Children's Treatment**: Free until the age of 18, which includes developmental vision tests.\n- **Hearing Rehabilitation**: 85% discount, including support groups.\n- **Developmental Delay Treatment**: 95% discount, up to 45 treatments per year.\n\nThese benefits ensure that your children receive comprehensive care and support for their health and developmental needs. If you have any more questions or need further details, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה בדיקות ראייה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לבדיקת ראייה חינם פעם בשנה, כולל בדיקת לחץ תוך עיני",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית לבדיקה ראייה חינם פעם בשנה, כולל בדיקת לחץ תוך עיני.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על משקפי ראייה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-70% הנחה על משקפי ראייה עד 1000 ₪, עם אפשרות להחלפה כל שנתיים",
+        "generated_answer":"שלום דנה כהן,\n\nלפי המידע שיש לנו, את זכאית ל-70% הנחה על משקפי ראייה, עד לסכום של 1000 ₪, עם אפשרות להחלפה כל שנתיים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nיום טוב!"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על עדשות מגע?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-60% הנחה על עדשות מגע, כולל ערכת טיפול שנתית",
+        "generated_answer":"שלום דנה כהן,\n\nבהתאם למידע על ההטבות שלך כחברת מכבי זהב, את זכאית ל-60% הנחה על עדשות מגע, כולל ערכת טיפול שנתית.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על ניתוח לייזר לתיקון ראייה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-50% הנחה על ניתוח לייזר, כולל בדיקות מקדימות",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית ל-50% הנחה על ניתוח לייזר לתיקון ראייה, כולל הבדיקות המקדימות.\n\nאם יש לך שאלות נוספות או שאת צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אביזרי ראייה מיוחדים?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-70% הנחה על מכשירי ראייה ירודה, כולל השאלת ציוד לניסיון",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית ל-70% הנחה על אביזרי ראייה מיוחדים, כולל מכשירי ראייה ירודה והשאלת ציוד לניסיון.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בטיפול בילדים?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לטיפול חינם לילדים עד גיל 18, כולל טיפולי עין עצלה",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת מכבי זהב, הטיפול בילדים ניתן בחינם עד גיל 18. זה כולל גם טיפולי עין עצלה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף על הטבות אחרות, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה בדיקות ראייה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לבדיקות ראייה חינם פעמיים בשנה, כולל מיפוי רשתית",
+        "generated_answer":"מיכל שלום,\n\nלפי המידע שברשותי, את זכאית לקבל שתי בדיקות ראייה חינם בשנה, כולל מיפוי רשתית.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nיום טוב,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על משקפי ראייה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-65% הנחה על משקפי ראייה עד 1200 ₪, עם אפשרות להחלפה כל שנה וחצי",
+        "generated_answer":"מיכל, לפי המידע שיש לנו, את זכאית ל-65% הנחה על משקפי ראייה, עד לסכום של 1200 ₪, עם אפשרות להחלפה כל שנה וחצי. אם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על עדשות מגע?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-55% הנחה על עדשות מגע, כולל בדיקת התאמה חינם",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\", את זכאית ל-55% הנחה על עדשות מגע, כולל בדיקת התאמה חינם.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על ניתוח לייזר לתיקון ראייה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-45% הנחה על ניתוח לייזר, כולל טיפולי המשך",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית ל-45% הנחה על ניתוח לייזר לתיקון ראייה, כולל טיפולי המשך.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אביזרי ראייה מיוחדים?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-65% הנחה על מכשירי ראייה ירודה, כולל הדרכה אישית",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\" של קופת חולים מאוחדת, את זכאית ל-65% הנחה על אביזרי ראייה מיוחדים, כולל הדרכה אישית.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בטיפול בילדים?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לטיפול חינם לילדים עד גיל 18, כולל אימוני ראייה",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\" בקופת חולים מאוחדת, הטיפול בילדים ניתן בחינם עד גיל 18, כולל אימוני ראייה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף על הטבות אחרות, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה בדיקות ראייה אני זכאית לקבל בשנה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לבדיקות ראייה חינם כל חצי שנה, כולל בדיקת שדה ראייה",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית לקבל בדיקות ראייה חינם כל חצי שנה. כלומר, את יכולה לעבור שתי בדיקות ראייה בשנה ללא עלות.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזרת הרפואית שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על משקפי ראייה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-75% הנחה על משקפי ראייה עד 900 ₪, עם אפשרות להחלפה כל שנתיים",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-75% הנחה על משקפי ראייה, עד לסכום של 900 ₪, עם אפשרות להחלפה כל שנתיים.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על עדשות מגע?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-65% הנחה על עדשות מגע, כולל עדשות ניסיון חינם",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית ל-65% הנחה על עדשות מגע, כולל עדשות ניסיון חינם.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nיום נעים,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על ניתוח לייזר לתיקון ראייה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-55% הנחה על ניתוח לייזר, כולל אחריות ל-5 שנים",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-55% הנחה על ניתוח לייזר לתיקון ראייה, כולל אחריות ל-5 שנים.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה על אביזרי ראייה מיוחדים?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-75% הנחה על מכשירי ראייה ירודה, כולל תמיכה טכנית",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-75% הנחה על אביזרי ראייה מיוחדים, כולל תמיכה טכנית.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בטיפול בילדים?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לטיפול חינם לילדים עד גיל 18, כולל בדיקות התפתחות ראייה",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת כללית זהב, הטיפול בילדים כולל את ההטבות הבאות:\n\n- טיפולים חינם עד גיל 18, כולל בדיקות התפתחות ראייה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in pregnancy follow-up?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to free pregnancy follow-up, including choosing a specialist doctor",
+        "generated_answer":"Hi Dana,\n\nFor pregnancy follow-up, you have some excellent benefits with your Maccabi Gold membership. Here’s what you’re entitled to:\n\n1. **Pregnancy Follow-Up**: This is completely free and includes the option to choose a specialist doctor for your care.\n2. **Genetic Screening Tests**: You get a 90% discount on these tests, which also includes genetic counseling.\n3. **System Scans**: These are free and cover both early and late scans.\n4. **Childbirth Preparation Course**: This is also free and includes a tour of the delivery room.\n\nThese benefits are designed to ensure you have comprehensive support and care throughout your pregnancy. If you have any more questions or need further assistance, feel free to ask!\n\nBest wishes,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the discount on genetic screening tests?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a 90% discount on genetic screening tests, including genetic counseling",
+        "generated_answer":"Hi Dana,\n\nFor genetic screening tests, you are eligible for a 90% discount, which also includes genetic counseling. This is part of your benefits under the Maccabi Gold membership tier.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in system scans?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to free system scans, including early and late scans",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, here are the benefits related to system scans:\n\n- **בדיקות ראייה (Vision Tests)**: You are entitled to a free vision test once a year, which includes an intraocular pressure test.\n- **סקירות מערכות (System Reviews)**: You have access to free system reviews, including both early and late reviews.\n\nIf you have any other questions or need further details, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in childbirth preparation course?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a free childbirth preparation course, including a delivery room tour",
+        "generated_answer":"Hi Dana,\n\nAs a Gold member with Maccabi HMO, you have some great benefits when it comes to childbirth preparation. You are entitled to a free childbirth preparation course, which includes a tour of the delivery room. This can be a fantastic way to get ready for the big day and feel more comfortable with the process.\n\nIf you have any more questions or need further details, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"How many nutritional counseling sessions am I entitled to?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to 5 free nutritional counseling sessions, including a personalized plan",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you are entitled to 5 free nutritional counseling sessions. These sessions include a personalized plan tailored to your needs.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What is the coverage for pregnancy complications treatment?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to 90% coverage for pregnancy complications treatment, including home hospitalization if needed",
+        "generated_answer":"Hi Dana,\n\nFor pregnancy complications treatment, your Maccabi Gold membership provides 90% coverage. This includes hospitalization at home if necessary. If you have any more questions or need further assistance, feel free to ask!\n\nTake care and best wishes for your health."
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in pregnancy follow-up?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to free pregnancy follow-up, including personal digital monitoring",
+        "generated_answer":"Hi Michal,\n\nAs a member of Meuhedet Gold, you have several comprehensive benefits for pregnancy follow-up. Here are the details:\n\n1. **Pregnancy Follow-Up (מעקב הריון)**: This is provided for free and includes a personal digital follow-up.\n2. **Genetic Screening Tests (בדיקות סקר גנטיות)**: You receive an 85% discount, which includes advanced tests.\n3. **System Scans (סקירות מערכות)**: These are free and include a 3D scan.\n4. **Childbirth Preparation Course (קורס הכנה ללידה)**: This is free and includes a baby CPR course.\n5. **Nutritional Counseling (ייעוץ תזונתי)**: You are entitled to 6 free sessions, which also include a set of dietary supplements.\n6. **Complications of Pregnancy Treatment (טיפול בסיבוכי הריון)**: You have 85% coverage, including the support of a specialist nurse.\n\nThese benefits are designed to ensure you have comprehensive support and care throughout your pregnancy. If you have any more questions or need further assistance, feel free to ask!\n\nBest wishes for a healthy and smooth pregnancy,\n[Your Medical Services Assistant]"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the discount on genetic screening tests?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to an 85% discount on genetic screening tests, including advanced tests",
+        "generated_answer":"Hi Michal,\n\nFor genetic screening tests, you are eligible for an 85% discount. This benefit also includes advanced genetic tests.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in system scans?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to free system scans, including 3D scans",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, here are the benefits related to system scans:\n\n- **בדיקות ראייה (Vision Tests)**: You are entitled to free vision tests twice a year, which include a retinal mapping.\n- **סקירות מערכות (System Reviews)**: You have access to free system reviews, including a 3D scan.\n\nIf you have any other questions or need further details, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in childbirth preparation course?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a free childbirth preparation course, including an infant CPR course",
+        "generated_answer":"Hi Michal,\n\nAs a member of Meuhedet Gold, you have some great benefits when it comes to childbirth preparation. Specifically, you are entitled to a free childbirth preparation course. This course includes comprehensive training to help you get ready for the big day. Additionally, the course also covers infant CPR training, which is an invaluable skill for new parents.\n\nIf you have any more questions or need further details, feel free to ask!\n\nBest wishes,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"How many nutritional counseling sessions am I entitled to?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to 6 free nutritional counseling sessions, including a nutritional supplements kit",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you are entitled to 6 free nutritional counseling sessions. These sessions also include a set of nutritional supplements.\n\nIf you have any more questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What is the coverage for pregnancy complications treatment?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to 85% coverage for pregnancy complications treatment, including guidance from a specialist nurse",
+        "generated_answer":"Hi Michal,\n\nFor pregnancy complications treatment, your Meuhedet Gold membership provides an 85% coverage. This includes the support and guidance of a specialist nurse throughout the process.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest wishes,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in pregnancy follow-up?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to free pregnancy follow-up, including 24\/7 telephone consultation",
+        "generated_answer":"Hi Shira,\n\nFor pregnancy follow-up, you have several great benefits with your Clalit Gold membership. Here’s what you can expect:\n\n1. **Pregnancy Follow-Up (מעקב הריון)**: This is completely free and includes 24\/7 telephone consultation.\n2. **Genetic Screening Tests (בדיקות סקר גנטיות)**: You get a 95% discount, which includes comprehensive interpretation.\n3. **System Reviews (סקירות מערכות)**: These are free and include a video recording of the scan.\n4. **Childbirth Preparation Course (קורס הכנה ללידה)**: This is also free and includes a session with a lactation consultant.\n5. **Nutritional Counseling (ייעוץ תזונתי)**: You are entitled to 4 free sessions, which include digital support.\n6. **Treatment for Pregnancy Complications (טיפול בסיבוכי הריון)**: You have 95% coverage, including consultations with specialists.\n\nThese benefits are designed to support you throughout your pregnancy journey, ensuring you have access to the necessary care and resources.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest wishes,\n[Your Medical Services Assistant]"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the discount on genetic screening tests?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a 95% discount on genetic screening tests, including extended interpretation",
+        "generated_answer":"Hi Shira,\n\nFor genetic screening tests, you are eligible for a 95% discount, which also includes an extended interpretation of the results. This is part of your benefits under the Clalit Gold membership tier.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in system scans?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to free system scans, including video recording of the scan",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, here are the benefits related to system scans:\n\n1. **בדיקות סקר גנטיות**: You get a 95% discount on genetic screening tests, which includes comprehensive interpretation.\n2. **סקירות מערכות**: These are free for you and include a video recording of the scan.\n\nIf you have any other questions or need further details, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in childbirth preparation course?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a free childbirth preparation course, including a meeting with a lactation consultant",
+        "generated_answer":"Hi Shira,\n\nFor your childbirth preparation course under your Clalit Gold membership, you have the following benefits:\n\n- The course is completely free of charge.\n- It includes a session with a lactation consultant to help you with breastfeeding.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"How many nutritional counseling sessions am I entitled to?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to 4 free nutritional counseling sessions, including digital guidance",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you are entitled to 4 free nutritional counseling sessions. These sessions also include digital support to help you with your nutritional goals.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What is the coverage for pregnancy complications treatment?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to 95% coverage for pregnancy complications treatment, including consultation with specialists",
+        "generated_answer":"Hi Shira,\n\nFor pregnancy complications treatment, you have excellent coverage under your Clalit Gold membership. You are entitled to 95% coverage for treatment of pregnancy complications, which also includes consultations with specialists. This means you can receive the necessary care and expert advice with minimal out-of-pocket expenses.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest wishes,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות במעקב הריון?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית למעקב הריון חינם, כולל בחירת רופא מומחה",
+        "generated_answer":"שלום דנה,\n\nבמסגרת חברותך במכבי זהב, את זכאית להטבות הבאות במעקב הריון:\n\n- מעקב הריון חינם, כולל בחירת רופא מומחה.\n- בדיקות סקר גנטיות בהנחה של 90%, כולל ייעוץ גנטי.\n- סקירות מערכות חינם, כולל סקירה מוקדמת ומאוחרת.\n- קורס הכנה ללידה חינם, כולל סיור בחדר לידה.\n- טיפול בסיבוכי הריון עם כיסוי של 90%, כולל אשפוז בית במקרה הצורך.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nמאחלת לך הריון קל ובריא,\nהעוזרת הרפואית שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה בבדיקות סקר גנטיות?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-90% הנחה בבדיקות סקר גנטיות, כולל ייעוץ גנטי",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית ל-90% הנחה על בדיקות סקר גנטיות, כולל ייעוץ גנטי.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסקירות מערכות?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לסקירות מערכות חינם, כולל סקירה מוקדמת ומאוחרת",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת מכבי זהב, את זכאית לסקירות מערכות בחינם. זה כולל גם סקירה מוקדמת וגם סקירה מאוחרת.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בקורס הכנה ללידה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לקורס הכנה ללידה חינם, כולל סיור בחדר לידה",
+        "generated_answer":"שלום דנה,\n\nבקורס הכנה ללידה במסגרת מכבי זהב, את זכאית להטבות הבאות:\n- הקורס ניתן בחינם.\n- הקורס כולל סיור בחדר לידה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבהצלחה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"כמה פגישות ייעוץ תזונתי אני זכאית לקבל?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-5 פגישות ייעוץ תזונתי חינם, כולל תוכנית אישית",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, את זכאית לקבל 5 פגישות ייעוץ תזונתי חינם, כולל תוכנית אישית.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה אחוז הכיסוי בטיפול בסיבוכי הריון?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית ל-90% כיסוי בטיפול בסיבוכי הריון, כולל אשפוז בית במקרה הצורך",
+        "generated_answer":"שלום דנה,\n\nלפי המידע שיש לנו, הכיסוי לטיפול בסיבוכי הריון במסגרת מכבי זהב הוא 90%, כולל אשפוז בית במקרה הצורך.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות במעקב הריון?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית למעקב הריון חינם, כולל מעקב אישי דיגיטלי",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\" בקופת חולים מאוחדת, את זכאית להטבות הבאות במעקב הריון:\n\n- **מעקב הריון**: חינם, כולל מעקב אישי דיגיטלי.\n- **סקירות מערכות**: חינם, כולל סקירה תלת-ממדית.\n- **בדיקות סקר גנטיות**: 85% הנחה, כולל בדיקות מתקדמות.\n- **קורס הכנה ללידה**: חינם, כולל קורס החייאת תינוקות.\n- **ייעוץ תזונתי**: 6 פגישות חינם, כולל ערכת תוספי תזונה.\n- **טיפול בסיבוכי הריון**: 85% כיסוי, כולל ליווי אחות מומחית.\n- **הריון ולידה**: חינם, כולל 3 מפגשי ייעוץ הנקה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה בבדיקות סקר גנטיות?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-85% הנחה בבדיקות סקר גנטיות, כולל בדיקות מתקדמות",
+        "generated_answer":"שלום מיכל,\n\nלפי המידע שיש לנו, את זכאית ל-85% הנחה על בדיקות סקר גנטיות, כולל בדיקות מתקדמות.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nיום טוב,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסקירות מערכות?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לסקירות מערכות חינם, כולל סקירה תלת-ממדית",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\" בקופת חולים מאוחדת, את זכאית להטבות הבאות בסקירות מערכות:\n\n- סקירות מערכות חינם, כולל סקירה תלת-ממדית.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בקורס הכנה ללידה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לקורס הכנה ללידה חינם, כולל קורס החייאת תינוקות",
+        "generated_answer":"מיכל שלום,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך בקופת חולים מאוחדת בתוכנית זהב, את זכאית לקורס הכנה ללידה בחינם. הקורס כולל גם קורס החייאת תינוקות.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבהצלחה והמשך יום נעים,\nAssistant"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"כמה פגישות ייעוץ תזונתי אני זכאית לקבל?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-6 פגישות ייעוץ תזונתי חינם, כולל ערכת תוספי תזונה",
+        "generated_answer":"מיכל, לפי המידע שיש לנו, את זכאית לקבל 6 פגישות ייעוץ תזונתי חינם, כולל ערכת תוספי תזונה. אם יש לך שאלות נוספות או אם את צריכה עזרה בקביעת פגישות, אני כאן לעזור!"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה אחוז הכיסוי בטיפול בסיבוכי הריון?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית ל-85% כיסוי בטיפול בסיבוכי הריון, כולל ליווי אחות מומחית",
+        "generated_answer":"מיכל, לפי המידע שיש לנו, אחוז הכיסוי בטיפול בסיבוכי הריון במסגרת חברותך ב\"מכבי זהב\" הוא 85%, כולל ליווי אחות מומחית. אם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות במעקב הריון?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית למעקב הריון חינם, כולל ייעוץ טלפוני 24\/7",
+        "generated_answer":"שלום שירה,\n\nאני רואה שאת מבוטחת בכללית בתוכנית זהב. לפי המידע שיש לי, ההטבות שלך במעקב הריון כוללות:\n\n- מעקב הריון חינם, כולל ייעוץ טלפוני 24\/7.\n- בדיקות סקר גנטיות בהנחה של 95%, כולל פענוח מורחב.\n- סקירות מערכות חינם, כולל צילום וידאו של הסקירה.\n- קורס הכנה ללידה חינם, כולל מפגש עם יועצת הנקה.\n- טיפול בסיבוכי הריון עם כיסוי של 95%, כולל התייעצות עם מומחים.\n\nאם יש לך שאלות נוספות או אם את צריכה מידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז ההנחה בבדיקות סקר גנטיות?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-95% הנחה בבדיקות סקר גנטיות, כולל פענוח מורחב",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, את זכאית ל-95% הנחה על בדיקות סקר גנטיות, כולל פענוח מורחב.\n\nאם יש לך שאלות נוספות או אם את צריכה עזרה נוספת, אני כאן בשבילך!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסקירות מערכות?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לסקירות מערכות חינם, כולל צילום וידאו של הסקירה",
+        "generated_answer":"שלום שירה,\n\nבהתאם להטבות שלך במסגרת כללית זהב, את זכאית לסקירות מערכות בחינם. ההטבה כוללת גם צילום וידאו של הסקירה, כך שתוכלי לשמור את התיעוד למזכרת.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בקורס הכנה ללידה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לקורס הכנה ללידה חינם, כולל מפגש עם יועצת הנקה",
+        "generated_answer":"שלום שירה,\n\nבקורס הכנה ללידה במסגרת הביטוח שלך ב\"כללית\" בתוכנית \"זהב\", את זכאית להטבות הבאות:\n\n- הקורס ניתן בחינם.\n- הקורס כולל מפגש עם יועצת הנקה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבהצלחה והמשך יום נעים,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"כמה פגישות ייעוץ תזונתי אני זכאית לקבל?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-4 פגישות ייעוץ תזונתי חינם, כולל ליווי דיגיטלי",
+        "generated_answer":"שירה שלום,\n\nלפי המידע שברשותי, את זכאית לקבל 4 פגישות ייעוץ תזונתי חינם, כולל ליווי דיגיטלי.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה אחוז הכיסוי בטיפול בסיבוכי הריון?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית ל-95% כיסוי בטיפול בסיבוכי הריון, כולל התייעצות עם מומחים",
+        "generated_answer":"שלום שירה,\n\nלפי המידע שיש לנו, הכיסוי שלך לטיפול בסיבוכי הריון הוא 95%, כולל התייעצות עם מומחים. אם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nמאחלת לך בריאות שלמה,\nהעוזרת הרפואית שלך"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the smoking cessation workshop?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a free smoking cessation workshop, including medication treatment",
+        "generated_answer":"Hi Dana,\n\nFor the smoking cessation workshop, you have the following benefits under your Maccabi Gold membership:\n\n- The workshop is completely free of charge.\n- It includes treatment with medication to help you quit smoking.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the proper nutrition workshop?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a free proper nutrition workshop, including 3 personal meetings with a dietitian",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you have some great benefits related to proper nutrition. Specifically, you are entitled to:\n\n- **Free nutritional guidance**, which includes 3 personal meetings with a dietitian.\n\nThis should help you get personalized advice and support to maintain a healthy diet. If you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the physical activity workshop?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a free physical activity workshop, including a one-month gym membership",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you have some great benefits when it comes to physical activity. Specifically, you are entitled to a free month-long gym membership. This benefit is designed to help you stay active and maintain a healthy lifestyle.\n\nIf you have any other questions about your benefits or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the stress management workshop?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a free stress management workshop, including 10 meditation sessions",
+        "generated_answer":"Hi Dana,\n\nFor stress management, you have access to a great benefit under your Maccabi Gold membership. You can participate in stress management workshops for free, which include 10 sessions of meditation. This is a fantastic way to help manage stress and improve your overall well-being.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the diabetes workshop?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a free diabetes workshop, including a continuous glucose monitor for one month",
+        "generated_answer":"Hi Dana,\n\nFor the diabetes workshop, your Gold membership with Maccabi HMO provides the following benefits:\n\n- Free participation in the workshop.\n- Continuous glucose monitor for one month at no cost.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":28,
+        "hmo_name":"Maccabi",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the pregnancy and childbirth workshop?",
+        "ground_truth_answer":"As a Maccabi Gold member, you are entitled to a free pregnancy and childbirth workshop, including an infant CPR course",
+        "generated_answer":"Hi Dana,\n\nBased on your Maccabi Gold membership, you have some great benefits related to pregnancy and childbirth. Here are the details:\n\n1. **Pregnancy Monitoring**: Free, including the choice of a specialist doctor.\n2. **Genetic Screening Tests**: 90% discount, including genetic counseling.\n3. **System Scans**: Free, including both early and late scans.\n4. **Childbirth Preparation Course**: Free, including a tour of the delivery room.\n5. **Nutritional Counseling**: 5 free sessions, including a personalized plan.\n6. **Complications of Pregnancy Treatment**: 90% coverage, including home hospitalization if necessary.\n7. **Smoking Cessation**: Free, including medication.\n8. **Proper Nutrition**: Free, including 3 personal sessions with a dietitian.\n9. **Physical Activity**: Free, including a one-month gym membership.\n10. **Stress Management**: Free, including 10 meditation sessions.\n11. **Diabetes Management**: Free, including a continuous glucose monitor for a month.\n12. **Pregnancy and Childbirth**: Free, including an infant CPR course.\n\nThese benefits are designed to support you throughout your pregnancy and childbirth journey. If you have any more questions or need further details, feel free to ask!\n\nBest wishes,\n[Your Assistant]"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the smoking cessation workshop?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a free smoking cessation workshop, including personal follow-up for one year",
+        "generated_answer":"Hi Michal,\n\nFor the smoking cessation workshop, you have the following benefits under your Meuhedet Gold membership:\n\n- The workshop is completely free of charge.\n- It includes personal follow-up for one year to help you stay on track.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the proper nutrition workshop?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a free proper nutrition workshop, including a personalized nutrition plan",
+        "generated_answer":"Hi Michal,\n\nAs a member of Meuhedet Gold, you have access to a variety of benefits related to proper nutrition. Specifically, for the proper nutrition workshop, you are entitled to:\n\n- Free participation in the workshop.\n- A personalized nutrition plan tailored to your needs.\n\nThis benefit is designed to help you achieve and maintain a healthy diet with professional guidance. If you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the physical activity workshop?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a free physical activity workshop, including 5 personal training sessions",
+        "generated_answer":"Hi Michal,\n\nAs a member of Meuhedet Gold, you have some great benefits when it comes to physical activity. Specifically, you are entitled to free participation in physical activity programs, which includes 5 personal training sessions. This is a fantastic way to stay active and healthy with professional guidance tailored to your needs.\n\nIf you have any more questions or need further details, feel free to ask!\n\nBest,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the stress management workshop?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a free stress management workshop, including weekly yoga sessions for two months",
+        "generated_answer":"Hi Michal,\n\nFor stress management, you have access to a free workshop that includes a weekly yoga session for two months. This benefit is part of your Meuhedet Gold membership and is designed to help you manage stress effectively.\n\nIf you have any other questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the diabetes workshop?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a free diabetes workshop, including personal guidance from a diabetes nurse",
+        "generated_answer":"Hi Michal,\n\nAs a member of Meuhedet Gold, you have access to a comprehensive diabetes workshop. The benefits for this workshop include:\n\n- Free participation in the workshop.\n- Personal guidance and support from a diabetes nurse.\n\nThis program is designed to help you manage your diabetes effectively with professional support and resources.\n\nIf you have any more questions or need further assistance, feel free to ask!"
+    },
+    {
+        "gender":"Female",
+        "age":35,
+        "hmo_name":"Meuhedet",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the pregnancy and childbirth workshop?",
+        "ground_truth_answer":"As a Meuhedet Gold member, you are entitled to a free pregnancy and childbirth workshop, including 3 breastfeeding consultation sessions",
+        "generated_answer":"Hi Michal,\n\nBased on your Meuhedet Gold membership, you have some great benefits related to pregnancy and childbirth. Here are the details:\n\n1. **Pregnancy Monitoring**: Free, including digital personal monitoring.\n2. **Genetic Screening Tests**: 85% discount, including advanced tests.\n3. **System Scans**: Free, including 3D scans.\n4. **Childbirth Preparation Course**: Free, including an infant CPR course.\n5. **Nutritional Counseling**: 6 free sessions, including a set of nutritional supplements.\n6. **Complications of Pregnancy Treatment**: 85% coverage, including specialist nurse support.\n7. **Smoking Cessation**: Free, including personal follow-up for a year.\n8. **Proper Nutrition**: Free, including a personalized nutrition plan.\n9. **Physical Activity**: Free, including 5 personal training sessions.\n10. **Stress Management**: Free, including a weekly yoga workshop for two months.\n11. **Diabetes Management**: Free, including personal support from a diabetes nurse.\n12. **Pregnancy and Childbirth**: Free, including 3 breastfeeding consultation sessions.\n\nThese benefits are designed to support you throughout your pregnancy and childbirth journey, ensuring you have access to comprehensive care and resources.\n\nIf you have any more questions or need further details, feel free to ask!\n\nBest wishes,\n[Your Medical Services Assistant]"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the smoking cessation workshop?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a free smoking cessation workshop, including ongoing group support",
+        "generated_answer":"Hi Shira,\n\nFor the smoking cessation workshop, you have the following benefits under your Clalit Gold membership:\n\n- The workshop is completely free of charge.\n- It includes ongoing group support to help you through the process.\n\nIf you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the proper nutrition workshop?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a free proper nutrition workshop, including digital guidance for six months",
+        "generated_answer":"Hi Shira,\n\nAs a Gold member of Clalit, you have access to the proper nutrition workshop at no cost. This benefit includes digital support for six months to help you maintain and improve your nutritional habits. \n\nIf you have any more questions or need further details, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the physical activity workshop?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a free physical activity workshop, including a home workout kit",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you have some great benefits when it comes to physical activity. You can enjoy free access to physical activity workshops, which also include a home workout kit. This means you can participate in these workshops without any cost and receive equipment to help you continue your exercises at home.\n\nIf you have any more questions or need further details, feel free to ask!\n\nBest,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the stress management workshop?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a free stress management workshop, including a mindfulness app for one year",
+        "generated_answer":"Hi Shira,\n\nFor stress management, you have access to the following benefits under your Clalit Gold membership:\n\n- Free stress management workshops.\n- Access to a mindfulness app for one year.\n\nThese benefits are designed to help you manage stress effectively and improve your overall well-being. If you have any more questions or need further assistance, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the diabetes workshop?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a free diabetes workshop, including a cooking course for diabetics",
+        "generated_answer":"Hi Shira,\n\nAs a member of Clalit with a Gold membership tier, you have access to several benefits related to diabetes management. Specifically, you can participate in a diabetes workshop that is provided free of charge. This workshop includes a cooking course designed specifically for individuals with diabetes. \n\nIf you have any more questions or need further details about your benefits, feel free to ask!\n\nBest regards,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"Female",
+        "age":42,
+        "hmo_name":"Clalit",
+        "membership_tier":"Gold",
+        "question":"What are the benefits in the pregnancy and childbirth workshop?",
+        "ground_truth_answer":"As a Clalit Gold member, you are entitled to a free pregnancy and childbirth workshop, including an infant massage workshop",
+        "generated_answer":"Hi Shira,\n\nBased on your Clalit Gold membership, you have some great benefits related to pregnancy and childbirth. Here are the details for the pregnancy and childbirth workshop:\n\n- **Pregnancy Monitoring**: Free, including 24\/7 telephone consultation.\n- **Genetic Screening Tests**: 95% discount, including comprehensive interpretation.\n- **System Scans**: Free, including video recording of the scan.\n- **Childbirth Preparation Course**: Free, including a session with a lactation consultant.\n- **Nutritional Counseling**: 4 free sessions, including digital support.\n- **Complications of Pregnancy Treatment**: 95% coverage, including consultations with specialists.\n- **Smoking Cessation**: Free, including ongoing group support.\n- **Proper Nutrition**: Free, including six months of digital support.\n- **Physical Activity**: Free, including a home workout kit.\n- **Stress Management**: Free, including a one-year mindfulness app subscription.\n- **Diabetes**: Free, including a cooking course for diabetics.\n- **Pregnancy and Childbirth**: Free, including a baby massage workshop.\n\nThese benefits are designed to support you throughout your pregnancy and childbirth journey, ensuring you have access to the necessary resources and support.\n\nIf you have any more questions or need further details, feel free to ask!\n\nBest wishes,\nYour Medical Services Assistant"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת הפסקת עישון?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לסדנת הפסקת עישון חינם, כולל טיפול תרופתי",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת מכבי זהב, סדנת הפסקת עישון ניתנת לך בחינם. ההטבה כוללת גם טיפול תרופתי במידת הצורך.\n\nאם יש לך שאלות נוספות או אם את מעוניינת בפרטים נוספים, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת תזונה נכונה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לסדנת תזונה נכונה חינם, כולל 3 פגישות אישיות עם דיאטנית",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת מכבי זהב, את זכאית להטבות הבאות בסדנת תזונה נכונה:\n\n- הסדנה היא חינם.\n- כוללת 3 פגישות אישיות עם דיאטנית.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת פעילות גופנית?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לסדנת פעילות גופנית חינם, כולל מנוי לחודש למכון כושר",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית להשתתף בסדנת פעילות גופנית בחינם. ההטבה כוללת מנוי לחודש למכון כושר.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת ניהול מתח?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לסדנת ניהול מתח חינם, כולל 10 מפגשי מדיטציה",
+        "generated_answer":"שלום דנה,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת מכבי זהב, את זכאית להשתתף בסדנת ניהול מתח בחינם. הסדנה כוללת 10 מפגשי מדיטציה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת סוכרת?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לסדנת סוכרת חינם, כולל מד סוכר רציף לחודש",
+        "generated_answer":"שלום דנה כהן,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית להטבות הבאות בסדנת סוכרת:\n\n- הסדנה היא חינם.\n- כוללת מד סוכר רציף לחודש.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":28,
+        "hmo_name":"מכבי",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת הריון ולידה?",
+        "ground_truth_answer":"כמבוטחת מכבי במסלול זהב, את זכאית לסדנת הריון ולידה חינם, כולל קורס החייאת תינוקות",
+        "generated_answer":"שלום דנה כהן,\n\nבהתאם למידע על ההטבות שלך במסגרת מכבי זהב, את זכאית להטבות הבאות בסדנת הריון ולידה:\n\n- קורס הכנה ללידה: חינם, כולל סיור בחדר לידה.\n- מעקב הריון: חינם, כולל בחירת רופא מומחה.\n- סקירות מערכות: חינם, כולל סקירה מוקדמת ומאוחרת.\n- ייעוץ תזונתי: 5 פגישות חינם, כולל תוכנית אישית.\n- טיפול בסיבוכי הריון: 90% כיסוי, כולל אשפוז בית במקרה הצורך.\n- בדיקות סקר גנטיות: 90% הנחה, כולל ייעוץ גנטי.\n- הריון ולידה: חינם, כולל קורס החייאת תינוקות.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nמאחלת לך הריון קל ובריא,\nהעוזרת הרפואית שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת הפסקת עישון?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לסדנת הפסקת עישון חינם, כולל מעקב אישי לשנה",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת חברותך ב-HMO מאוחדת ברמת זהב, את זכאית להשתתף בסדנת הפסקת עישון בחינם. הסדנה כוללת גם מעקב אישי למשך שנה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת תזונה נכונה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לסדנת תזונה נכונה חינם, כולל תוכנית תזונה אישית",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\" בקופת חולים מאוחדת, את זכאית להטבות הבאות בסדנת תזונה נכונה:\n\n- הסדנה היא חינם.\n- כוללת תוכנית תזונה אישית.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת פעילות גופנית?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לסדנת פעילות גופנית חינם, כולל 5 אימונים אישיים",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\", את זכאית להטבות הבאות בסדנת פעילות גופנית:\n\n- השתתפות חינם בסדנה\n- 5 אימונים אישיים כלולים במסגרת הסדנה\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת ניהול מתח?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לסדנת ניהול מתח חינם, כולל סדנת יוגה שבועית לחודשיים",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\", את זכאית להשתתף בסדנת ניהול מתח בחינם. הסדנה כוללת סדנת יוגה שבועית למשך חודשיים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת סוכרת?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לסדנת סוכרת חינם, כולל ליווי אישי של אחות סוכרת",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\", את זכאית להטבות הבאות בסדנת סוכרת:\n\n- השתתפות חינם בסדנת סוכרת\n- ליווי אישי של אחות סוכרת\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nמאחלת לך בריאות שלמה,\nהעוזרת הרפואית שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":35,
+        "hmo_name":"מאוחדת",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת הריון ולידה?",
+        "ground_truth_answer":"כמבוטחת מאוחדת במסלול זהב, את זכאית לסדנת הריון ולידה חינם, כולל 3 מפגשי ייעוץ הנקה",
+        "generated_answer":"שלום מיכל,\n\nבהתאם למידע על ההטבות שלך במסגרת חברותך ב\"מכבי זהב\", את זכאית להטבות הבאות בסדנת הריון ולידה:\n\n- **מעקב הריון**: חינם, כולל מעקב אישי דיגיטלי.\n- **בדיקות סקר גנטיות**: 85% הנחה, כולל בדיקות מתקדמות.\n- **סקירות מערכות**: חינם, כולל סקירה תלת-ממדית.\n- **קורס הכנה ללידה**: חינם, כולל קורס החייאת תינוקות.\n- **ייעוץ תזונתי**: 6 פגישות חינם, כולל ערכת תוספי תזונה.\n- **טיפול בסיבוכי הריון**: 85% כיסוי, כולל ליווי אחות מומחית.\n- **הריון ולידה**: חינם, כולל 3 מפגשי ייעוץ הנקה.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת הפסקת עישון?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לסדנת הפסקת עישון חינם, כולל תמיכה קבוצתית מתמשכת",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע שיש לנו על ההטבות שלך במסגרת כללית זהב, סדנת הפסקת עישון ניתנת לך בחינם. הסדנה כוללת גם תמיכה קבוצתית מתמשכת, כך שתוכלי לקבל את כל העזרה והליווי שאת צריכה בתהליך הפסקת העישון.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבהצלחה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת תזונה נכונה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לסדנת תזונה נכונה חינם, כולל ליווי דיגיטלי לחצי שנה",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית להטבות הבאות בסדנת תזונה נכונה:\n\n- הסדנה היא חינם.\n- כוללת ליווי דיגיטלי לחצי שנה.\n\nאם יש לך שאלות נוספות או אם את מעוניינת בפרטים נוספים על הטבות אחרות, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת פעילות גופנית?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לסדנת פעילות גופנית חינם, כולל ערכת אימון ביתית",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית להשתתף בסדנת פעילות גופנית בחינם. ההטבה כוללת גם ערכת אימון ביתית שתסייע לך לשמור על כושר גם בבית.\n\nאם יש לך שאלות נוספות או אם את מעוניינת בפרטים נוספים, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת ניהול מתח?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לסדנת ניהול מתח חינם, כולל אפליקציית מיינדפולנס לשנה",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית להשתתף בסדנת ניהול מתח בחינם. ההטבה כוללת גם גישה לאפליקציית מיינדפולנס לשנה שלמה, שתסייע לך בניהול המתח והפחתת הלחץ היומיומי.\n\nאם יש לך שאלות נוספות או אם את מעוניינת בפרטים נוספים, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת סוכרת?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לסדנת סוכרת חינם, כולל קורס בישול לסוכרתיים",
+        "generated_answer":"שלום שירה,\n\nבהתאם למידע על ההטבות שלך במסגרת כללית זהב, את זכאית להטבות הבאות בסדנת סוכרת:\n\n- הסדנה היא חינם.\n- הסדנה כוללת קורס בישול לסוכרתיים.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    },
+    {
+        "gender":"נקבה",
+        "age":42,
+        "hmo_name":"כללית",
+        "membership_tier":"זהב",
+        "question":"מה ההטבות בסדנת הריון ולידה?",
+        "ground_truth_answer":"כמבוטחת כללית במסלול זהב, את זכאית לסדנת הריון ולידה חינם, כולל סדנת עיסוי תינוקות",
+        "generated_answer":"שלום שירה,\n\nאני רואה שאת מבוטחת בכללית במעמד זהב. להלן ההטבות שאת זכאית להן בסדנת הריון ולידה:\n\n- **מעקב הריון**: חינם, כולל ייעוץ טלפוני 24\/7.\n- **בדיקות סקר גנטיות**: 95% הנחה, כולל פענוח מורחב.\n- **סקירות מערכות**: חינם, כולל צילום וידאו של הסקירה.\n- **קורס הכנה ללידה**: חינם, כולל מפגש עם יועצת הנקה.\n- **ייעוץ תזונתי**: 4 פגישות חינם, כולל ליווי דיגיטלי.\n- **טיפול בסיבוכי הריון**: 95% כיסוי, כולל התייעצות עם מומחים.\n- **הריון ולידה**: חינם, כולל סדנת עיסוי תינוקות.\n\nאם יש לך שאלות נוספות או אם את זקוקה למידע נוסף, אני כאן לעזור!\n\nבברכה,\nהעוזר הרפואי שלך"
+    }
+]

@@ -1,0 +1,118 @@
+{
+  "test_cases": [
+    {
+      "user_info": {
+        "first_name": "Dana",
+        "last_name": "Cohen",
+        "id_number": "123456789",
+        "gender": "Female",
+        "age": 28,
+        "hmo_name": "Maccabi",
+        "hmo_card_number": "987654321",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many vision tests am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to one free vision test per year, including intraocular pressure testing"
+        },
+        {
+          "question": "What is the discount on glasses?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 70% discount on glasses up to 1000 NIS, with replacement every two years"
+        },
+        {
+          "question": "What is the discount on contact lenses?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 60% discount on contact lenses, including an annual treatment kit"
+        },
+        {
+          "question": "What is the discount on laser vision correction surgery?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 50% discount on laser surgery, including preliminary examinations"
+        },
+        {
+          "question": "What is the discount on special vision aids?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 70% discount on low vision devices, including trial equipment rental"
+        },
+        {
+          "question": "What are the benefits for children's treatment?",
+          "answer": "As a Maccabi Gold member, you are entitled to free treatment for children up to age 18, including lazy eye treatment"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Michal",
+        "last_name": "Abraham",
+        "id_number": "234567890",
+        "gender": "Female",
+        "age": 35,
+        "hmo_name": "Meuhedet",
+        "hmo_card_number": "876543210",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many vision tests am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to two free vision tests per year, including retinal mapping"
+        },
+        {
+          "question": "What is the discount on glasses?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 65% discount on glasses up to 1200 NIS, with replacement every year and a half"
+        },
+        {
+          "question": "What is the discount on contact lenses?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 55% discount on contact lenses, including free fitting examination"
+        },
+        {
+          "question": "What is the discount on laser vision correction surgery?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 45% discount on laser surgery, including follow-up treatments"
+        },
+        {
+          "question": "What is the discount on special vision aids?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 65% discount on low vision devices, including personal training"
+        },
+        {
+          "question": "What are the benefits for children's treatment?",
+          "answer": "As a Meuhedet Gold member, you are entitled to free treatment for children up to age 18, including vision training"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Shira",
+        "last_name": "Golan",
+        "id_number": "345678901",
+        "gender": "Female",
+        "age": 42,
+        "hmo_name": "Clalit",
+        "hmo_card_number": "765432109",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many vision tests am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to free vision tests every six months, including visual field testing"
+        },
+        {
+          "question": "What is the discount on glasses?",
+          "answer": "As a Clalit Gold member, you are entitled to a 75% discount on glasses up to 900 NIS, with replacement every two years"
+        },
+        {
+          "question": "What is the discount on contact lenses?",
+          "answer": "As a Clalit Gold member, you are entitled to a 65% discount on contact lenses, including free trial lenses"
+        },
+        {
+          "question": "What is the discount on laser vision correction surgery?",
+          "answer": "As a Clalit Gold member, you are entitled to a 55% discount on laser surgery, including a 5-year warranty"
+        },
+        {
+          "question": "What is the discount on special vision aids?",
+          "answer": "As a Clalit Gold member, you are entitled to a 75% discount on low vision devices, including technical support"
+        },
+        {
+          "question": "What are the benefits for children's treatment?",
+          "answer": "As a Clalit Gold member, you are entitled to free treatment for children up to age 18, including vision development testing"
+        }
+      ]
+    }
+  ]
+} 

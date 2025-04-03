@@ -1,0 +1,118 @@
+{
+  "test_cases": [
+    {
+      "user_info": {
+        "first_name": "Dana",
+        "last_name": "Cohen",
+        "id_number": "123456789",
+        "gender": "Female",
+        "age": 28,
+        "hmo_name": "Maccabi",
+        "hmo_card_number": "987654321",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What are the benefits in pregnancy follow-up?",
+          "answer": "As a Maccabi Gold member, you are entitled to free pregnancy follow-up, including choosing a specialist doctor"
+        },
+        {
+          "question": "What is the discount on genetic screening tests?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 90% discount on genetic screening tests, including genetic counseling"
+        },
+        {
+          "question": "What are the benefits in system scans?",
+          "answer": "As a Maccabi Gold member, you are entitled to free system scans, including early and late scans"
+        },
+        {
+          "question": "What are the benefits in childbirth preparation course?",
+          "answer": "As a Maccabi Gold member, you are entitled to a free childbirth preparation course, including a delivery room tour"
+        },
+        {
+          "question": "How many nutritional counseling sessions am I entitled to?",
+          "answer": "As a Maccabi Gold member, you are entitled to 5 free nutritional counseling sessions, including a personalized plan"
+        },
+        {
+          "question": "What is the coverage for pregnancy complications treatment?",
+          "answer": "As a Maccabi Gold member, you are entitled to 90% coverage for pregnancy complications treatment, including home hospitalization if needed"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Michal",
+        "last_name": "Abraham",
+        "id_number": "234567890",
+        "gender": "Female",
+        "age": 35,
+        "hmo_name": "Meuhedet",
+        "hmo_card_number": "876543210",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What are the benefits in pregnancy follow-up?",
+          "answer": "As a Meuhedet Gold member, you are entitled to free pregnancy follow-up, including personal digital monitoring"
+        },
+        {
+          "question": "What is the discount on genetic screening tests?",
+          "answer": "As a Meuhedet Gold member, you are entitled to an 85% discount on genetic screening tests, including advanced tests"
+        },
+        {
+          "question": "What are the benefits in system scans?",
+          "answer": "As a Meuhedet Gold member, you are entitled to free system scans, including 3D scans"
+        },
+        {
+          "question": "What are the benefits in childbirth preparation course?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a free childbirth preparation course, including an infant CPR course"
+        },
+        {
+          "question": "How many nutritional counseling sessions am I entitled to?",
+          "answer": "As a Meuhedet Gold member, you are entitled to 6 free nutritional counseling sessions, including a nutritional supplements kit"
+        },
+        {
+          "question": "What is the coverage for pregnancy complications treatment?",
+          "answer": "As a Meuhedet Gold member, you are entitled to 85% coverage for pregnancy complications treatment, including guidance from a specialist nurse"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Shira",
+        "last_name": "Golan",
+        "id_number": "345678901",
+        "gender": "Female",
+        "age": 42,
+        "hmo_name": "Clalit",
+        "hmo_card_number": "765432109",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What are the benefits in pregnancy follow-up?",
+          "answer": "As a Clalit Gold member, you are entitled to free pregnancy follow-up, including 24/7 telephone consultation"
+        },
+        {
+          "question": "What is the discount on genetic screening tests?",
+          "answer": "As a Clalit Gold member, you are entitled to a 95% discount on genetic screening tests, including extended interpretation"
+        },
+        {
+          "question": "What are the benefits in system scans?",
+          "answer": "As a Clalit Gold member, you are entitled to free system scans, including video recording of the scan"
+        },
+        {
+          "question": "What are the benefits in childbirth preparation course?",
+          "answer": "As a Clalit Gold member, you are entitled to a free childbirth preparation course, including a meeting with a lactation consultant"
+        },
+        {
+          "question": "How many nutritional counseling sessions am I entitled to?",
+          "answer": "As a Clalit Gold member, you are entitled to 4 free nutritional counseling sessions, including digital guidance"
+        },
+        {
+          "question": "What is the coverage for pregnancy complications treatment?",
+          "answer": "As a Clalit Gold member, you are entitled to 95% coverage for pregnancy complications treatment, including consultation with specialists"
+        }
+      ]
+    }
+  ]
+} 

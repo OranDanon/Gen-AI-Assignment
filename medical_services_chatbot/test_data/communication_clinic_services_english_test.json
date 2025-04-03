@@ -1,0 +1,118 @@
+{
+  "test_cases": [
+    {
+      "user_info": {
+        "first_name": "Dana",
+        "last_name": "Cohen",
+        "id_number": "123456789",
+        "gender": "Female",
+        "age": 28,
+        "hmo_name": "Maccabi",
+        "hmo_card_number": "987654321",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What is the discount on speech and language disorder diagnosis?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 90% discount on speech and language disorder diagnosis, including a detailed report"
+        },
+        {
+          "question": "How many stuttering treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to an 80% discount on stuttering treatment, up to 30 treatments per year"
+        },
+        {
+          "question": "How many voice disorder treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 75% discount on voice disorder treatment, up to 20 treatments per year"
+        },
+        {
+          "question": "What is the discount on swallowing disorder diagnosis and treatment?",
+          "answer": "As a Maccabi Gold member, you are entitled to an 85% discount on swallowing disorder diagnosis and treatment, including videofluoroscopy examination"
+        },
+        {
+          "question": "How many developmental delay treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 90% discount on developmental delay treatment, up to 40 treatments per year"
+        },
+        {
+          "question": "What is the discount on hearing rehabilitation?",
+          "answer": "As a Maccabi Gold member, you are entitled to an 80% discount on hearing rehabilitation, including hearing aid fitting"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Michal",
+        "last_name": "Abraham",
+        "id_number": "234567890",
+        "gender": "Female",
+        "age": 35,
+        "hmo_name": "Meuhedet",
+        "hmo_card_number": "876543210",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What is the discount on speech and language disorder diagnosis?",
+          "answer": "As a Meuhedet Gold member, you are entitled to an 85% discount on speech and language disorder diagnosis, including parent consultation"
+        },
+        {
+          "question": "How many stuttering treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 75% discount on stuttering treatment, up to 25 treatments per year"
+        },
+        {
+          "question": "How many voice disorder treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 70% discount on voice disorder treatment, up to 18 treatments per year"
+        },
+        {
+          "question": "What is the discount on swallowing disorder diagnosis and treatment?",
+          "answer": "As a Meuhedet Gold member, you are entitled to an 80% discount on swallowing disorder diagnosis and treatment, including nutritional consultation"
+        },
+        {
+          "question": "How many developmental delay treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to an 85% discount on developmental delay treatment, up to 35 treatments per year"
+        },
+        {
+          "question": "What is the discount on hearing rehabilitation?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 75% discount on hearing rehabilitation, including technical support"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Shira",
+        "last_name": "Golan",
+        "id_number": "345678901",
+        "gender": "Female",
+        "age": 42,
+        "hmo_name": "Clalit",
+        "hmo_card_number": "765432109",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "What is the discount on speech and language disorder diagnosis?",
+          "answer": "As a Clalit Gold member, you are entitled to a 95% discount on speech and language disorder diagnosis, including a treatment plan"
+        },
+        {
+          "question": "How many stuttering treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to an 85% discount on stuttering treatment, up to 28 treatments per year"
+        },
+        {
+          "question": "How many voice disorder treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to an 80% discount on voice disorder treatment, up to 22 treatments per year"
+        },
+        {
+          "question": "What is the discount on swallowing disorder diagnosis and treatment?",
+          "answer": "As a Clalit Gold member, you are entitled to a 90% discount on swallowing disorder diagnosis and treatment, including home treatment"
+        },
+        {
+          "question": "How many developmental delay treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to a 95% discount on developmental delay treatment, up to 45 treatments per year"
+        },
+        {
+          "question": "What is the discount on hearing rehabilitation?",
+          "answer": "As a Clalit Gold member, you are entitled to an 85% discount on hearing rehabilitation, including support groups"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,118 @@
+{
+  "test_cases": [
+    {
+      "user_info": {
+        "first_name": "Dana",
+        "last_name": "Cohen",
+        "id_number": "123456789",
+        "gender": "Female",
+        "age": 28,
+        "hmo_name": "Maccabi",
+        "hmo_card_number": "987654321",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many acupuncture treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 70% discount on acupuncture, up to 20 treatments per year"
+        },
+        {
+          "question": "How many shiatsu treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 65% discount on shiatsu, up to 15 treatments per year"
+        },
+        {
+          "question": "How many reflexology treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 60% discount on reflexology, up to 12 treatments per year"
+        },
+        {
+          "question": "How many naturopathy treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 70% discount on naturopathy, up to 16 treatments per year"
+        },
+        {
+          "question": "How many homeopathy treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 65% discount on homeopathy, up to 12 treatments per year"
+        },
+        {
+          "question": "How many chiropractic treatments am I entitled to per year?",
+          "answer": "As a Maccabi Gold member, you are entitled to a 75% discount on chiropractic, up to 18 treatments per year"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Michal",
+        "last_name": "Abraham",
+        "id_number": "234567890",
+        "gender": "Female",
+        "age": 35,
+        "hmo_name": "Meuhedet",
+        "hmo_card_number": "876543210",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many acupuncture treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 75% discount on acupuncture, up to 18 treatments per year"
+        },
+        {
+          "question": "How many shiatsu treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 70% discount on shiatsu, up to 12 treatments per year"
+        },
+        {
+          "question": "How many reflexology treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 65% discount on reflexology, up to 10 treatments per year"
+        },
+        {
+          "question": "How many naturopathy treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 75% discount on naturopathy, up to 14 treatments per year"
+        },
+        {
+          "question": "How many homeopathy treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to a 70% discount on homeopathy, up to 10 treatments per year"
+        },
+        {
+          "question": "How many chiropractic treatments am I entitled to per year?",
+          "answer": "As a Meuhedet Gold member, you are entitled to an 80% discount on chiropractic, up to 16 treatments per year"
+        }
+      ]
+    },
+    {
+      "user_info": {
+        "first_name": "Shira",
+        "last_name": "Golan",
+        "id_number": "345678901",
+        "gender": "Female",
+        "age": 42,
+        "hmo_name": "Clalit",
+        "hmo_card_number": "765432109",
+        "membership_tier": "Gold"
+      },
+      "conversations": [
+        {
+          "question": "How many acupuncture treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to an 80% discount on acupuncture, up to 16 treatments per year"
+        },
+        {
+          "question": "How many shiatsu treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to a 75% discount on shiatsu, up to 14 treatments per year"
+        },
+        {
+          "question": "How many reflexology treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to a 70% discount on reflexology, up to 12 treatments per year"
+        },
+        {
+          "question": "How many naturopathy treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to an 80% discount on naturopathy, up to 12 treatments per year"
+        },
+        {
+          "question": "How many homeopathy treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to a 75% discount on homeopathy, up to 12 treatments per year"
+        },
+        {
+          "question": "How many chiropractic treatments am I entitled to per year?",
+          "answer": "As a Clalit Gold member, you are entitled to an 85% discount on chiropractic, up to 14 treatments per year"
+        }
+      ]
+    }
+  ]
+} 

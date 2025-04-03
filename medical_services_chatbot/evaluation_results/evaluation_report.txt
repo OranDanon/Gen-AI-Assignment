@@ -1,0 +1,627 @@
+QA Service Evaluation Report - Model Comparison
+==========================================
+
+Overall Metrics by Model:
+----------------------
+
+all-MiniLM-L6-v2:
+Accuracy: 32.43%
+Precision: 32.43%
+Recall: 100.00%
+
+all-mpnet-base-v2:
+Accuracy: 36.94%
+Precision: 36.94%
+Recall: 100.00%
+
+ncbi/MedCPT-Query-Encoder:
+Accuracy: 61.26%
+Precision: 61.26%
+Recall: 100.00%
+
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract:
+Accuracy: 100.00%
+Precision: 100.00%
+Recall: 100.00%
+
+emilyalsentzer/Bio_ClinicalBERT:
+Accuracy: 9.46%
+Precision: 9.46%
+Recall: 100.00%
+
+Accuracy by Service:
+------------------
+
+מה ההטבות במעקב הריון?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 66.67%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+מה אחוז ההנחה על טיפולי שורש?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה טיפולי רפלקסולוגיה אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many free dental check-ups and cleanings am I entitled to per year?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 66.67%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the coverage for pregnancy complications treatment?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+Is there an emergency service for dental check-ups and cleanings?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה טיפולי כירופרקטיקה אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז הכיסוי בטיפול בסיבוכי הריון?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+מה אחוז ההנחה על אבחון הפרעות שפה ודיבור?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+מה אחוז ההנחה על ניתוח לייזר לתיקון ראייה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+זהב:
+all-MiniLM-L6-v2: 2.70%
+all-mpnet-base-v2: 6.31%
+ncbi/MedCPT-Query-Encoder: 99.10%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 18.02%
+
+מה אחוז ההנחה על סתימות?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many stuttering treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה בבדיקות סקר גנטיות?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+מכבי:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 2.70%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 18.92%
+
+כמה טיפולי הומאופתיה אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 66.67%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 66.67%
+
+What is the discount on swallowing disorder diagnosis and treatment?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many acupuncture treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מאוחדת:
+all-MiniLM-L6-v2: 5.41%
+all-mpnet-base-v2: 10.81%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 21.62%
+
+מה אחוז ההנחה על משקפי ראייה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 100.00%
+
+How many vision tests am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on fillings?:
+all-MiniLM-L6-v2: 33.33%
+all-mpnet-base-v2: 33.33%
+ncbi/MedCPT-Query-Encoder: 66.67%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What are the benefits in the diabetes workshop?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 66.67%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בסקירות מערכות?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה על שיקום שמיעה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on root canal treatments?:
+all-MiniLM-L6-v2: 33.33%
+all-mpnet-base-v2: 33.33%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many chiropractic treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on genetic screening tests?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 66.67%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many voice disorder treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כללית:
+all-MiniLM-L6-v2: 2.70%
+all-mpnet-base-v2: 5.41%
+ncbi/MedCPT-Query-Encoder: 97.30%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 13.51%
+
+האם יש שירות חירום לבדיקות וניקוי שיניים?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What are the benefits in the physical activity workshop?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 66.67%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה על עדשות מגע?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+Meuhedet:
+all-MiniLM-L6-v2: 48.65%
+all-mpnet-base-v2: 62.16%
+ncbi/MedCPT-Query-Encoder: 21.62%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 2.70%
+
+מה ההטבות בסדנת סוכרת?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+What are the benefits in system scans?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How long is the wait time for dental check-ups and cleanings?:
+all-MiniLM-L6-v2: 50.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בקורס הכנה ללידה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה על טיפולים קוסמטיים?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה טיפולי דיקור סיני אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בסדנת תזונה נכונה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה זמן ממתינים לתור לבדיקות וניקוי שיניים?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 50.00%
+
+How many naturopathy treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה טיפולים בגמגום אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What are the benefits in the smoking cessation workshop?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+Maccabi:
+all-MiniLM-L6-v2: 75.68%
+all-mpnet-base-v2: 70.27%
+ncbi/MedCPT-Query-Encoder: 40.54%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What are the benefits in the pregnancy and childbirth workshop?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה על אבחון וטיפול בהפרעות בליעה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+What is the discount on special vision aids?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה טיפולים בעיכוב התפתחותי אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 33.33%
+all-mpnet-base-v2: 33.33%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה על יישור שיניים?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 66.67%
+
+Gold:
+all-MiniLM-L6-v2: 62.16%
+all-mpnet-base-v2: 67.57%
+ncbi/MedCPT-Query-Encoder: 23.42%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.90%
+
+What are the benefits in pregnancy follow-up?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 66.67%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on orthodontic treatment?:
+all-MiniLM-L6-v2: 33.33%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה בדיקות ראייה אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+כמה טיפולי שיאצו אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many shiatsu treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בסדנת הריון ולידה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+What is the discount on hearing rehabilitation?:
+all-MiniLM-L6-v2: 33.33%
+all-mpnet-base-v2: 33.33%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה טיפולים בהפרעות קול אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many developmental delay treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 33.33%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on glasses?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on cosmetic treatments?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on crowns and implants?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה על כתרים ושתלים?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What are the benefits in childbirth preparation course?:
+all-MiniLM-L6-v2: 33.33%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 66.67%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בסדנת הפסקת עישון?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+Clalit:
+all-MiniLM-L6-v2: 62.16%
+all-mpnet-base-v2: 70.27%
+ncbi/MedCPT-Query-Encoder: 8.11%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה פעמים בשנה אני זכאית לבדיקות וניקוי שיניים חינם?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on contact lenses?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many reflexology treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on laser vision correction surgery?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בטיפול בילדים?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה אחוז ההנחה על אביזרי ראייה מיוחדים?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many nutritional counseling sessions am I entitled to?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 33.33%
+
+What are the benefits in the proper nutrition workshop?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 66.67%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What are the benefits in the stress management workshop?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 33.33%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בסדנת ניהול מתח?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה טיפולי נטורופתיה אני זכאית לקבל בשנה?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What are the benefits for children's treatment?:
+all-MiniLM-L6-v2: 66.67%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+How many homeopathy treatments am I entitled to per year?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 0.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+מה ההטבות בסדנת פעילות גופנית?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 0.00%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+What is the discount on speech and language disorder diagnosis?:
+all-MiniLM-L6-v2: 100.00%
+all-mpnet-base-v2: 100.00%
+ncbi/MedCPT-Query-Encoder: 33.33%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 0.00%
+
+כמה פגישות ייעוץ תזונתי אני זכאית לקבל?:
+all-MiniLM-L6-v2: 0.00%
+all-mpnet-base-v2: 33.33%
+ncbi/MedCPT-Query-Encoder: 100.00%
+microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract: 100.00%
+emilyalsentzer/Bio_ClinicalBERT: 100.00%
+
+Accuracy by HMO:
+--------------
+
+Accuracy by Tier:
+---------------
